@@ -1,0 +1,28 @@
+{
+  "name": "subchecker",
+  "version": "0.0.1",
+  "description": "A bot that checks if a user is subscribed to a youtube channnel or not",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "chalk": "^4.1.2",
+    "chillout": "^5.0.0",
+    "discord.js": "^14.4.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.9.2",
+    "ocr-space-api-wrapper": "^2.2.0",
+    "path": "^0.12.7",
+    "plsargs": "^0.1.6",
+    "recursive-readdir": "^2.2.2",
+    "stuffs": "^0.1.17",
+    "timers": "^0.1.1"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "alwaysluxury",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
