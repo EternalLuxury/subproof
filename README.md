@@ -37,7 +37,7 @@ Then go to
 ```
 And enter your mongodb
 
-After installation you can use `node .` to start the bot.
+After installation you can use `npm run start` to start the bot.
 
 After the bot is running type *node deploySlash.js global* to deploy commands globally or *node deploySlash.js guild (guild id)* to deploy in a guild.
 
